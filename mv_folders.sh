@@ -1,0 +1,7 @@
+mv normal_rh_ndfs8 normal_test1/normal_rh_ndfs8
+mv normal_rh_ndfs9 normal_test1/normal_rh_ndfs9
+mv normal_rh_ndfs10 normal_test1/normal_rh_ndfs10
+mv normal_rh_ndfs11 normal_test1/normal_rh_ndfs11
+mv normal_rh_ndfs12 normal_test1/normal_rh_ndfs12
+mv normal_rh_ndfs13 normal_test1/normal_rh_ndfs13
+mv normal_rh_ndfs14 normal_test1/normal_rh_ndfs14
